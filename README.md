@@ -7,7 +7,7 @@ This is a project about a data set provide by Great Learning and University of T
 The approach to the DEA: 
 - Sanity check
 - Univariate Analysis (includes Sanity check)
-- Bivariate Analysis (includes Univaariate Analysis)
+- Bivariate Analysis (includes Univariate Analysis)
 - Missing Value Treatment (includes Bivariate Analysis)
 - Outlier Detection and Treatment (includes Missing Value Treatment)
 - Conclusions 
