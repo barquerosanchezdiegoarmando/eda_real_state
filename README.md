@@ -9,7 +9,7 @@ The approach to the DEA:
 - Univariate Analysis (includes Sanity check)
 - Bivariate Analysis (includes Univariate Analysis)
 - Missing Value Treatment (includes Bivariate Analysis)
-- Outlier Detection and Treatment (includes Missing Value Treatment)
-- Conclusions 
+- Outlier Detection and Treatment + conclusions (includes Missing Value Treatment) 
+- Causability check (Rstudio linear regression)
 
 I will upload for parts if you want to focus just in a specific aspect of the data exploratory analysis
