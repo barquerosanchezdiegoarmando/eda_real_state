@@ -10,6 +10,6 @@ The approach to the DEA:
 - Bivariate Analysis (includes Univariate Analysis)
 - Missing Value Treatment (includes Bivariate Analysis)
 - Outlier Detection and Treatment + conclusions (includes Missing Value Treatment) 
-- Causability check (includes Outlier Detection and Treatment + conclusions)
+- Causability check in r and py (includes Outlier Detection and Treatment + conclusions)
 
 I will upload for parts if you want to focus just in a specific aspect of the data exploratory analysis
