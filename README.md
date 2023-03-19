@@ -12,3 +12,6 @@ The approach to the EDA:
 - Outlier Detection and Treatment
 - Conclusions
 - Causality check 
+
+Skills and tools used to the completation of this small project:
+Python.Libraries ( numpy, pandas, matplotlib, seaborn)
