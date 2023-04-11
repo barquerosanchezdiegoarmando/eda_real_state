@@ -13,11 +13,5 @@ The approach to the EDA:
 - Conclusions
 
 Skills and tools used to the completation of this small project:
-Python.Libraries ( numpy, pandas, matplotlib, seaborn, statsmodels, sklearn)
-
-The aproach to the Forecasting will be: 
-- Data modeling
-- Holt-Winters 
-- Results
-
+Python.Libraries ( numpy, pandas, matplotlib, seaborn )
 
